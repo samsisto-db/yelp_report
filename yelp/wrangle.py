@@ -1,6 +1,5 @@
 #imports
 import pandas as pd
-import json
 import ingest
 
 #Call ingest.py and create initial dataframes
